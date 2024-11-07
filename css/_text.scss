@@ -1,0 +1,57 @@
+h1.heading {
+    font-size: 2.857rem;
+    font-weight: bold;
+    color: $color-gray;
+}
+
+h2.heading {
+    font-family: $font-family-primary;
+    font-weight: $font-weight-light;
+    font-size: 2.5rem;
+    color: $color-gray;
+}
+
+.heading {
+    font-weight: $font-weight-semi-bold;
+    font-size: 1.571rem;
+}
+
+h5 {
+    font-weight: $font-weight-semi-bold;
+    font-size: 1rem;
+}
+
+h4.heading {
+    font-weight: $font-weight-semi-bold;
+    font-size: 1.571rem;
+}
+
+h5.title {
+    font-size: 1.143rem;
+    color: $color-primary;
+}
+
+h4 {
+    font-size: 1.286rem;
+    font-weight: $font-weight-bold;
+}
+
+h4.title {
+    font-size: 1.429rem;
+    font-weight: $font-weight-semi-bold;
+}
+
+.title {
+    font-weight: $font-weight-bold;
+    font-size: 1.143;
+}
+
+.text{
+    font-weight: 500;
+    font-size: 1.1rem;
+    color: #a2171c;
+    margin-bottom: 1.143rem;
+}
+
+
+
